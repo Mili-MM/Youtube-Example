@@ -1,0 +1,23 @@
+This project is a responsive YouTube Homepage clone built using HTML and CSS. It recreates the main layout and visual style of YouTube, including the navigation header, search bar, sidebar menu, category buttons, and a responsive video grid.
+
+The page is designed to adapt to different screen sizes, providing a smooth experience on desktop computers, tablets, and mobile devices. CSS Flexbox, Grid, and media queries are used to organize the layout and make the interface responsive.
+
+This project was created to practice front-end development skills, improve understanding of responsive web design, and gain experience building modern website layouts using only HTML and CSS.
+
+Main features include:
+
+* Responsive video grid layout
+* YouTube-style navigation bar
+* Sidebar navigation menu
+* Search bar and header icons
+* Video thumbnails and information sections
+* Responsive design for desktop, tablet, and mobile screens
+* Clean and organized HTML and CSS structure
+
+Technologies used:
+
+* HTML5
+* CSS3
+* CSS Flexbox
+* CSS Grid
+* Media Queries
